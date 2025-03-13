@@ -1,5 +1,5 @@
 # Skill-Lab-6
-Authors: Manny McGrail, Joe Lentini
+Authors: Manny McGrail, Joe Lentini, Mohammad Malik (Evening Class)
 
 *A skill lab required for Big Ideas in Computing (CMPINF 0010) at the University of Pittsburgh.*
 
